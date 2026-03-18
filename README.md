@@ -73,10 +73,7 @@ Repo Structure
 ├── interpolation/
 ├── machine_learning/
 ├── README.md
-├── linear_algebra/
-├── interpolation/
-├── machine_learning/
-├── README.md
+```
 
 
 Maintained By Nishanka Das, M.Sc. CS Student @ RKMVCC, Rahara. Session 2025-26
