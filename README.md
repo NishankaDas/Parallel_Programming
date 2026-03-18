@@ -68,6 +68,11 @@ mpirun -np <number_of_processes> python <filename.py>
 
 
 Repo Structure
+```bash
+├── linear_algebra/
+├── interpolation/
+├── machine_learning/
+├── README.md
 ├── linear_algebra/
 ├── interpolation/
 ├── machine_learning/
