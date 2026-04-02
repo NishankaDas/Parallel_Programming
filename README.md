@@ -49,12 +49,19 @@ The assignments emphasize performance-oriented computing and parallel execution 
 
 ---
 
+### 4. 🤖 Open MP
+- Bubble Sort using Open MP
+- Matrix Addition using Open MP
+
+---
+
 ## ⚙️ Technologies Used
 
 - Python
 - mpi4py
 - NumPy
 - MPI (Message Passing Interface)
+- Open MP
 
 ---
 
@@ -72,6 +79,7 @@ Repo Structure
 ├── linear_algebra/
 ├── interpolation/
 ├── machine_learning/
+├── open_mp/
 ├── README.md
 ```
 
