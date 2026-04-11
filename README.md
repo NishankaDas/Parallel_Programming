@@ -49,9 +49,10 @@ The assignments emphasize performance-oriented computing and parallel execution 
 
 ---
 
-### 4. 🤖 Open MP
+### 4. ⇄ Open MP (C Programs)
 - Bubble Sort using Open MP
 - Matrix Addition using Open MP
+- Heat Equation Simulation using Open MP and MPI
 
 ---
 
