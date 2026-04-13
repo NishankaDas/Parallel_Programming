@@ -54,7 +54,7 @@ The assignments emphasize performance-oriented computing and parallel execution 
 - Matrix Addition using Open MP
 - Heat Equation Simulation using Open MP and MPI
 
-### 4. NVIDIA CUDA
+### 4. 📈 NVIDIA CUDA
 - Addition of two Vectors
 - Addition of two Matrices
 - Multiplication of two Matrices 
@@ -68,6 +68,7 @@ The assignments emphasize performance-oriented computing and parallel execution 
 - NumPy
 - MPI (Message Passing Interface)
 - Open MP
+- CUDA
 
 ---
 
