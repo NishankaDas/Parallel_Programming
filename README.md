@@ -54,6 +54,11 @@ The assignments emphasize performance-oriented computing and parallel execution 
 - Matrix Addition using Open MP
 - Heat Equation Simulation using Open MP and MPI
 
+### 4. NVIDIA CUDA
+- Addition of two Vectors
+- Addition of two Matrices
+- Multiplication of two Matrices 
+
 ---
 
 ## ⚙️ Technologies Used
@@ -74,6 +79,11 @@ Make sure MPI is installed (e.g., OpenMPI or MPICH), then run:
 mpirun -np <number_of_processes> python <filename.py>
 ```
 
+To run CUDA Programs 
+```bash
+nvcc <cuda_program.cu> -o cuda_program
+./ cuda_program
+```
 
 Repo Structure
 ```bash
@@ -81,6 +91,7 @@ Repo Structure
 ├── interpolation/
 ├── machine_learning/
 ├── open_mp/
+├── CUDA/
 ├── README.md
 ```
 
